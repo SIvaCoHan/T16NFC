@@ -1,0 +1,10 @@
+/venv/
+/.idea/
+*.pyc
+__pycache__/
+*.log
+*.csv
+*.xlsx
+/.env
+/dist/
+/build/
